@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="../../src/css/font-awesome.css">
-<link rel="stylesheet" href="../../src/css/config.css">
+
 <style>
     .sim_image_wrapper {
         width: 100%;
@@ -50,6 +49,7 @@
 </div>
 
 
+<?= 'this code is from php'; ?>
 <script>
 
 </script>
